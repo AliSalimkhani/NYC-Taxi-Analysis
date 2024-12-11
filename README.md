@@ -1,2 +1,2 @@
 # NYC Taxi Analysis
-In this project i'm going to do a research about the Taxis in New York City
+For this project, I will research taxis in New York City and try to predict their prices using the gathered data.
